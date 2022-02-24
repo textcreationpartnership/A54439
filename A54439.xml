@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narative [sic] of some of the sufferings of J.P. in the city of Rome</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54439</idno>
+            <idno type="STC">Wing P1627</idno>
+            <idno type="STC">ESTC R19839</idno>
+            <idno type="EEBO-CITATION">12353664</idno>
+            <idno type="OCLC">ocm 12353664</idno>
+            <idno type="VID">60054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1025:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narative [sic] of some of the sufferings of J.P. in the city of Rome</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+                  <author>Bayley, Charles. Third of the sixth month, 1661, from the common goal in Burkdou in France.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Perrot by Wing and NUC pre-1956 imprints.</note>
+                  <note>"The third of the sixth month 1661. From the common goal in Burkdou in France ..." on p. 11-16 signed: Charles Bayly.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60054:1" rendition="simple:additions"/>
+            <p>A NARATIVE of ſome of the SUFFERINGS of J. P. in the CITY of <hi>ROME</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the Bull and mouth near <hi>Alderſgate,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:60054:2"/>
+            <pb n="3" facs="tcp:60054:2" rendition="simple:additions"/>
+            <head>A Narative of ſome of the Sufferings of <hi>J. P.</hi> in the City of <hi>Rome.</hi>
+            </head>
+            <argument>
+               <p>It is moved in my Soul to leave a remembrance unto all Generations of my ſucceeding Seed, of the mercies of God unto me in the dayes of my Captivity and ſore diſtreſſe in the City of <hi>Rome,</hi> that they all which may live in the feeling of the Power of the Spirit of Salvation, may taſt of the ſecret ſtreams of the thanks-giving and praiſes of my poor ſoul yeilded and offered unto my Maker, my compaſſionate God and my King, and in their true ſence of the ſame rejoyce alſo in the ſpirit of praiſe, which liveth without end, Amen.</p>
+            </argument>
+            <p>WHen I was caſt into Priſon, becauſe I lo<g ref="char:EOLhyphen"/>ved the Souls of mine enemies; when I was ſeparated like <hi>Joſeph</hi> from all my Brethren, and oppreſſed in a ſtrange Land; when I was left like a poor <hi>ſilly Dove</hi> without a mate; when I was deſpightfully, ignominiouſly and ap<g ref="char:EOLhyphen"/>probriouſly contemned, ſcorned and mocked of all men, both Prieſts and People that came to view me in my miſery; when I was extreamly abaſed in all things which bore the ſhew of helps unto me; When I was held in Irons untill one of my limbes failed me; When I was divers times cruel<g ref="char:EOLhyphen"/>ly tortured and tormented in my weak fleſhly bo<g ref="char:EOLhyphen"/>dy; When I was tempted with Wine and with
+<pb n="4" facs="tcp:60054:3" rendition="simple:additions"/>
+Women, and with meats, much, little, and none, with riches and honour, and with all delights and pleaſures that ever my heart might deſire; When I was threated with gally-ſlavery, with tor<g ref="char:EOLhyphen"/>tures on the ſoales of my feet, with death by fire, and alſo ſubtilly by poyſon; When I was thus and unſpeakably more proved by flatteries, threats and tortures, to turn from the Lord my God unto a Graven Image; when the hunters night and day hunted me like a forſaken Partridge in the barren Grounds, and like an alone Quail in the ſtubble fields; when I was as a <hi>Wren</hi> in a buſh of Thornes, and the Eagles watched to teare me; when Wolves howled to prey upon me by night, and Lions moſt terribly roared to deſtroy me day af<g ref="char:EOLhyphen"/>ter day; when the Seas raged on every ſide, and floods of the deeps heaped themſelves like im<g ref="char:EOLhyphen"/>moveable Mountains upon my back; when the wrath of Hell gaped as a gulf to ſwallow me in her belly of envy; when nets of Iron were ſpread a<g ref="char:EOLhyphen"/>bout my habitation, and ſnares of ſteel ſet com<g ref="char:EOLhyphen"/>paſſing my dwelling; when Serpents creeped over my body, and frogs danced on my face, when Scorpions ran over my head, and Dragons ſpat fire in my face, when the Spirits of infernal places en<g ref="char:EOLhyphen"/>camped about me, and ſirrounded me with their dreadful flames; when they pierced me as with Speares in my ſide, and that I daily felt their malice like the pains of arrows ſtuck faſt in my heart; when they ſtrove to ſlay me with vexation, and to murder me with the torments of oppreſſion; when they ſpued out their vennome night and day in vileneſs of words againſt me, with bitterneſs of
+<pb n="5" facs="tcp:60054:3" rendition="simple:additions"/>
+curſing in their mouths, and abominable oaths and blaſphemies againſt the Righteous God of my Sal<g ref="char:EOLhyphen"/>vation; when they rejoyced and took pleaſure to oppreſſe my righteous ſoul with oaths, and ſought to vex me with numberleſs lies; when by their num<g ref="char:EOLhyphen"/>berleſs unheard of wickedneſſes they laboured to make me languiſh in ſorrow and periſh in extream miſery; when their Spirits came upon me in the night ſeaſon, and often almoſt ſtrangled me to death in my ſleep; Then had I dreadful Viſions by day, and moſt terrible dreams by night; then was my ſoul in a Sea of ſorrows, and in an im<g ref="char:EOLhyphen"/>mence Ocean of miſeries; then was my bread Af<g ref="char:EOLhyphen"/>fliction and my drink extream Tribulation; then did I water my Couch with my tears, and ſowed them as ſeed on the ground; For then the Moun<g ref="char:EOLhyphen"/>tains did preſs me down with their weights, and rocks did even cruſh me to pieces; then did I make ſobbs as an eaſe to my ſoul, and ſuſtained my ſelf with the grievouſneſs of groanes; then were ſigh<g ref="char:EOLhyphen"/>ings as a ſpouſe in my bed, and tears as my ſolace with her; And oh then did I cry unto my God and poured out my complaints before him; I wreſtled with his Angel night and day, and caſt the Ri<g ref="char:EOLhyphen"/>vers of my bleedings on his Altar; And then he ſhewed me <hi>the ſorrows of his Seed in the Earth, and the oppreſſion of his righteous life by all the Nations thereof;</hi> And though I could but diſcern the leaſt part thereof, yet it was infinitely <hi>more then my ſufferings;</hi> and then he made me put my neck to the yoake thereof, and my back to its heavy burthens, ſo that pangs were added to my paines, and mourning multiplied to my miſeries, which made me roare
+<pb n="6" facs="tcp:60054:4" rendition="simple:additions"/>
+for the revelation of mercies, dropping my tears under the <hi>Cherubim</hi> winges of his eternal compaſ<g ref="char:EOLhyphen"/>ſions, and ſtood before him in the nakedneſs of my innocency, and in the ſimplicity of patience and content; for he ſtripped me as bare as I was born, and then his righteous eye ſaw that I murmered not againſt him in all my Tribulations, but cal'd all things good from his hand, and gave thanks to him for all my ſufferings, as I did for my daily bread.</p>
+            <p>So it came to paſs in his time that he remembred me his bruiſed Babe, and had compaſſion on me his wounded worm, and moved in his jealouſie for me, whoſe righteous and pittiful Soul could not al<g ref="char:EOLhyphen"/>waies bear the grief of my ſorrows, without ſtreching out his hand to help me, becauſe he ſaw that without him, I was as a helpleſs Lamb among Lyons; And therefore he paſſed in a ſecret dread through Hell, and brake the bars of her gates, he cut a path through the Clouds of her blackneſſe, and divided a way through her burnings; he ſcat<g ref="char:EOLhyphen"/>tered Mountains like duſt with a whirlewind, and diſperſed Hills like the chaff of the ſummer threſ<g ref="char:EOLhyphen"/>shing floore; he made the raging ſeas as ſmooth as oyl, and the bluſtering ſtorms as the gentle North<g ref="char:EOLhyphen"/>wind; he clave the craggy Rocks aſſunder, and made an eaſie path through the drowning deeps; for that he had pity on my broken heart, and moſt lamentable bleeding ſoul, knowing that I ſought not Riches nor Honour, but the Remiſſion of the ſins and the Salvation of the poor Souls of mine e<g ref="char:EOLhyphen"/>nemies; nay, I deſired not any thing in Heaven or Earth, beſides the glory and praiſe of his eternall
+<pb n="7" facs="tcp:60054:4"/>
+holy Name, and knew the Innocency of my ſimple Soul which cannot touch a worme to deſtroy it, and ſaw the openneſs of my heart of love, which can lay down my life for the very vileſt of all my op<g ref="char:EOLhyphen"/>preſſors; wherefore he ſmote on the brazen earth, and tore down the bulwarks of her ſtrength, and then he lifted up my head above the deeps, and ſet my feet upon the Tower of his ſtrength, and made my meekneſs as the Arrows of his quiver, and my patience as Spears of the battle, and ſent my Shafts among Armies, and diſperſed their camps as ſmoak; and hoſts that were as ſtrong as ſteele he made be<g ref="char:EOLhyphen"/>come as towe before the breath of my mouth; who formed my noſtrils as a bellowes, and my mouth as a flaming Furnace; So he gave me the Standerd of the battle, and put the Enſigne of victo<g ref="char:EOLhyphen"/>ry in my hand, who inſtead of fear gave me won<g ref="char:EOLhyphen"/>derful courage, and inſtead of weakneſs, ſtrength and valour, and took pleaſure to viſit me with mercies and with comfortable promiſes of Life; <hi>Yea in the time of my ſore diſtreſs at midnight he ap<g ref="char:EOLhyphen"/>peared at my Priſon window in a flame of Fire, which my fleſhly eyes beheld, and then he ſmote upon the Iron bars thereof, which my fleſhly ears did hear; So then I re<g ref="char:EOLhyphen"/>membred him (in the ſpirit) that he was my God, and that he watched over me in the dayes of my affliction;</hi> moreover when my foes did oppreſs me, <hi>He roared with Thunders in the City, which made the houſes and their foundations to tremble as a leaf, and made mine enemies to cry with fear, and then as I was laid down in my Priſon, with mine eye on the chain of my leg, he caſt in a barre of fire, in manner and bigneſs of a Jovelin, which ſmote upon the end therof which was faſtened to a Ring in the Wall, by which he ſhewed me his
+<pb n="8" facs="tcp:60054:5" rendition="simple:additions"/>
+might, and the wonderfulneſs of his glorious Power, and by the ſame did ſeal unto me his Covenant;</hi> for he ſwore unto me <hi>by his life</hi> that he would break my bonds aſſunder, and gave me Teſtimony upon Teſtimony of his faithfulneſs; <hi>And in the dayes of my miſery he humbled himſelf as if he were lower then the Son of man, and came down and ſpake to me as a man doth ſpeak with his friend, and ſo took delight to break my heart aſſunder, that he might bind me up in his boſome of pleaſure;</hi> He divers times plainly told me ſaying, <hi>fear not worm</hi> Jacob, <hi>for I am thy God, no Inchantment ſhall ever prevail againſt thee, no weapon formed againſt thee shall proſper;</hi> Beſides he carried me through <hi>deep places</hi> where he diſcovered unto me <hi>many wonders,</hi> yea, and ſhewed me things <hi>too wonderful</hi> for me; Ah the glory, the glory, the mar<g ref="char:EOLhyphen"/>vellous glory of his wonderful works my weakneſs can never declare, neither can I utter the propor<g ref="char:EOLhyphen"/>tion of his raviſhing joyes whereof he made me to drink at the Fountain in abundance.</p>
+            <p>And when he had proved me by manifold waies, much more then any mortal man could imagine, and ſeeing that in my ſorrows I forſook him not, but grew nearer and nearer into him, and in my joyes I ſwelled not above him, but more and more feared and trembled that I might live alwaies humble beneath him, and his tender pitties ta<g ref="char:EOLhyphen"/>king upon him the ſoreneſs of the ſufferings of my poor earthly Tabernacle; at laſt through the way that he had broken, through the hard places reach<g ref="char:EOLhyphen"/>ed me with the bowels of his ſervants, and with the prophecyes of many of his people, who ſpake in the one Spirit unto me the very things which he cove<g ref="char:EOLhyphen"/>nanted unto me in the time of my extream miſery,
+<pb n="9" facs="tcp:60054:5" rendition="simple:additions"/>
+which was as a ſeven-fold Seal in my ſoul, confirming his Teſtimonies unto me; and then he raiſed up his little babe my dear Brother <hi>Thomas Hart</hi> to ſet his ten<g ref="char:EOLhyphen"/>der ſoul nearer unto my ſufferings, and made him take my burthens on his back, and the yoak of my Tribula<g ref="char:EOLhyphen"/>tion on his neck, and made him ſup of my ſore ſorrows and drink of the bleedings of my grief; and in the e<g ref="char:EOLhyphen"/>ternal bowels of his loving kindneſs and mercies, made him attend me with conſtant conſolations and with re<g ref="char:EOLhyphen"/>newed comforts of his life; yea he made him unto me as the compaſſions of a Father to his Child, and as the bowels of a Mother to her babe, who took it as the de<g ref="char:EOLhyphen"/>light of his heart to ſend ſwiftly unto me the <hi>refreſhing ſtreams</hi> of my Brethren and Siſters <hi>brookes;</hi> Ah he was as dayly bread to my hunger, and as the beſt wine to my thirſt; yea the moſt high God made him as the <hi>dews of Heaven</hi> on mylocks, and as the <hi>drops of the clouds</hi> on my ſkirts, who over took me with a Sea of his love, and ſwallowed me in the deeps of his affection, ſo that he was a joy to me in my tedious bonds, and gladneſſe unto me whileſt I was grieved of mine enemies, and ſtill he counted the moſt of his love too little, and the weight of his affection as a thing too light in the bal<g ref="char:EOLhyphen"/>lance, whoſe bowels did break me aſſunder, and the flames of his love melted me into many ſtreams. More<g ref="char:EOLhyphen"/>over the everlaſting mercies of my God did ſtir up the bowels of other two of his tender babes, named in the tent, <hi>Jane Stokes</hi> and <hi>Charles Baylie</hi> to come to viſit me whileſt I was as forſaken of all men, who in the up<g ref="char:EOLhyphen"/>rightneſs of their hearts and perfect faith in my God of wonders, came travelling through land towards me, bruiſed in their righteous ſouls in abſtinence and faſting, in weakneſs and ſore pains, yet ſpared not their bodies to the utmoſt, but in the faith perſevered
+<pb n="10" facs="tcp:60054:6" rendition="simple:additions"/>
+in their pilgrimage untill they arrived to <hi>Rome,</hi> where <hi>C. B.</hi> offered his life to ranſome me, and both of them entered into captivity for the love which they bore to my life; and <hi>Charles</hi> wore the irons of my bonds in faſtings and ſore ſufferings, which melted my heart like wax, and made me drop down the tears of mine eyes, which pretious viſitations of my Fathers eternal love manifeſted unto me in tender compaſſions through the yerning bowels of theſe his beloved babes muſt never be forgotten of me, but remembred of me in a ſoul abounding with thanſgiving and ſpirit of praiſe of the moſt high; yea for theſe and all his un<g ref="char:EOLhyphen"/>ſpeakable favours I will laud, praiſe, honour, renown and magnify his holy Name and power for ever and e<g ref="char:EOLhyphen"/>ver, Amen: For his mercies are over all his works, and his compaſſions are without bounds or meaſure; and in the belly of a continual broken heart deſire I to dwel, where I may evermore honour my God with my tears; for oh, oh, I am overcome, I am overcome of his infinite mercies towards me.</p>
+            <p>And this I leave for poſterities and generations fol<g ref="char:EOLhyphen"/>lowing, that my ſeeds ſeed and its ſeeding ſeed may know the love wherewith my God hath loved me, both in himſelf and in the bowels of theſe his babes, yea let the record of it be had in <hi>Iſrael</hi> unto the end of dayes and time to the glory of the God of my ſalvation, and and let the day of the birth of theſe innocent Lambs be had in memory of bleſſing in the hearts of <hi>Sions</hi> Seed for ever, whom the Lord God of my life made like ſo many long lines of his unſearchable loving kindneſs which reached me in the deeps of my biter calamities, and in the lamentable daies of my languiſhings. Oh bleſſed, bleſſed, bleſſed, praiſed and magnified be the God of my ſalvation, even for ever and ever, Amen.</p>
+            <closer>
+               <dateline>
+                  <hi>Written in Rome Priſon of Madmen.</hi>
+               </dateline>
+               <signed>JOHN.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:60054:6" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>The third of the ſixth Month, 1661.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <head>From the Common Goal in <hi>Burkdou</hi> in <hi>France,</hi> about thirty leagues from <hi>Dover,</hi> where I am a ſufferer for ſpeaking the Word of the Lord to two Prieſts, ſaying, <hi>All Idols, all Idolatries and all Idol Prieſts muſt periſh.</hi>
+            </head>
+            <p>DEarly beloved, as the ſtreames of an endleſs Fountain this goes through me, which cauſeth my banks to over flow plentifully with the pleaſant and delightful fruits of love, which gently ſtreams and flows towards thee my Siſter and my Brother; but as thou art my elder in my Fathers houſe, in the time of the excerciſe of thy ſtrength didſt freely miniſter to my weakneſs, which can never be forgotten by me, though I am at preſent, and have ſeveral times (ſince I ſaw thy face) been ſhut up in ſtrong priſons, yet it hath not nor cannot blot out the remembrance of thee from me; For I can truly ſay in the fear of my Father, thou art as an engraven Adamant within my heart, and though through the natural I may ſpeak this, it is becauſe I feel thee in the eternal, <hi>I</hi> feel thee in the immortal, I feel thee in the unchangable, which was before the changable was, or ſhadows of turn<g ref="char:EOLhyphen"/>ing were; my heart is exceeding full in me towards thee, unexpreſſable, undeclarable doth my meaſure flow towards thee; Therefore feel, feel me, and there only where <hi>I</hi> may be felt receive me, and as thou doſt feel me, ſo let me be received and accepted in thy tender boſome.</p>
+            <p>And now it is in my heart to ſhew thee in brief ſom<g ref="char:EOLhyphen"/>thing of the ſervice <hi>I</hi> have had ſince <hi>I</hi> ſaw thy face, though it was not a little deſired by me when I re<g ref="char:EOLhyphen"/>turned from <hi>G.F.</hi> but I being drawn in my life towards <hi>London,</hi> and my former ſervice lay much before me, I
+<pb n="12" facs="tcp:60054:7" rendition="simple:additions"/>
+chooſed the Seas, and it was ſo with me, that I was much preſſed in my ſpirit to paſs away; And when I came to <hi>London</hi> I found in my life I might have ſtayed ſome time longer there then I did, but fearing leaſt it might be an offence to any, I took my leave of Friends and paſſed away towards <hi>Dover,</hi> and it being wholly in my heart to do the will of my God whatſoever I ſuf<g ref="char:EOLhyphen"/>fered, and after I had ſome ſervice for the Lord in <hi>Do<g ref="char:EOLhyphen"/>ver,</hi> which was well accepted of him, I took alſo my leave of friends at <hi>Dover</hi> and imbarqued my ſelf for <hi>Calis,</hi> yet at that very inſtant I felt ſomething in my life againſt going at that time; yet for my aforeſaid reaſon I paſſed away, and after my arrival at <hi>Calis</hi> the Lord would not permit me to go forward, but by a mightly power was conſtrained to return back to <hi>Do<g ref="char:EOLhyphen"/>ver;</hi> It was alſo ſhewed me ſomthing of a woman go<g ref="char:EOLhyphen"/>ing with me, to which I was conſtrained to conſent, and returned to <hi>Dover,</hi> though it was in great croſſe, yet the power of the Almighty was with me, and I had not liberty to leave that Town; and after about a month waiting, there came a dear ſervant of the moſt high God, whoſe name according to the world is <hi>Jane Stokes,</hi> who was commanded of the Lord for to go to the place where <hi>John Perrot</hi> was, and immediately ſo ſoon as ſhe arrived in the meeting in <hi>Dover,</hi> I was ſhewed that ſhe was to go over the Seas before I ſpoke one word to her; and ſuddenly after, I was like a man releaſed out of Priſon and had perfect freedom to paſs away, which accordingly I did; and in relation to this Voyage I ſhall tell thee how it was with me be<g ref="char:EOLhyphen"/>fore I returned into <hi>England</hi> the firſt time, For the Lord did ſhew it me before <hi>I</hi> came to <hi>Paris</hi> the firſt time, Therefore <hi>I</hi> writ it in my letter to thee, which <hi>I</hi> left with <hi>Anthony Holder,</hi> ſaying that <hi>I</hi> am given up if
+<pb n="13" facs="tcp:60054:7" rendition="simple:additions"/>
+to <hi>Rome;</hi> So the ſame day my dear companion came, <hi>I</hi> paſſed away and ſet forwards towards <hi>Paris</hi> as afore<g ref="char:EOLhyphen"/>ſaid, it being the ſame way we were both ſhewed we ſhould paſs before we ſaw one anothers faces; and ar<g ref="char:EOLhyphen"/>riving at <hi>Paris I</hi> was drawn in my life to the Pro<g ref="char:EOLhyphen"/>teſtants meeting which <hi>I</hi> formerly told thee of, but there was much enmity againſt me, ſo that <hi>I</hi> had not the ſervice <hi>I</hi> might have had at that time; but we be<g ref="char:EOLhyphen"/>ing both drawn in our lives to paſs away onwards of our Journey towards <hi>Rome,</hi> we ſoon ſet forwards in the good will of the Lord, whoſe preſence was won<g ref="char:EOLhyphen"/>derfully with us; for truly as the dews diſtills morn<g ref="char:EOLhyphen"/>ing by morning upon the tender graſs, ſo did bleſſing and mercy diſtill upon our tender ſouls, ſo that we were kept over all fears, as we kept in the fear of our God, and as in his dread we walked, our enemies were dreaded before us, for we paſſed thorow the Nation of <hi>France</hi> without any moleſtation or trouble, and coming to <hi>Marcellis</hi> (from whence <hi>I</hi> ſent thee a Let<g ref="char:EOLhyphen"/>ter,) we embarqued for <hi>Ginova,</hi> not having oppertunity for <hi>Legorn,</hi> as <hi>I</hi> did purpoſe; and after ſome 15 dayes to and fro with ſore ſtorms we arrived ſafe to our Port, and from thence we took our Journey by Land to <hi>Legorn,</hi> the Lord preſerving us thorow many moun<g ref="char:EOLhyphen"/>tains and dangerous places, and arriving at <hi>Legorn,</hi> we had not of monies the value of an <hi>Engliſh</hi> penny left to buy us a little bread; But the Lord had not left us, but was near us in the time of need, and ordered it ſo that we wanted not a piece of bread; For though it was near night when we arrived, we met with a dear friend called <hi>William Ward,</hi> maſter of a Veſſel, who received us with gladneſs of heart, he having other two friends with him who were alſo Sea-men, and after we had ſtayed ſome time with them, and being refreſhed one
+<pb n="14" facs="tcp:60054:8" rendition="simple:additions"/>
+in another, we took our leaves, taking courage as <hi>Paul</hi> did in his voyage to <hi>Rome,</hi> after he had ſeen the Bre<g ref="char:EOLhyphen"/>thren; and arriving ſafe at <hi>Rome</hi> we were drawn in our lives directly to the place where the dearly be<g ref="char:EOLhyphen"/>loved <hi>J. P.</hi> was, and coming to the Priſon door, <hi>I</hi> en<g ref="char:EOLhyphen"/>quired for him, and having anſwer of his being there, <hi>I</hi> deſired for to ſpeak with him, but it would not be permitted us; So it was ſaid in me <hi>write unto him,</hi> which <hi>I</hi> did, the which he anſwered us in the fulneſs of love, which refreſhed us after our weary ſteps; For our ſouls were refreſhed one in another, though one an<g ref="char:EOLhyphen"/>others faces we had never ſeen to the outward, and then we being kept in a holy fear not to do nor act one way nor other, but as we were moved of the Lord, leaſt we ſhould add to his bonds, <hi>I</hi> ſay being thus kept we were delivered out of the ſnare of the fowler, who ſecretly lay in wait to betray our innocency; And af<g ref="char:EOLhyphen"/>ter a little time the Lord ſhewed me <hi>I</hi> ſhould go to the inquiſition, which <hi>I</hi> did, and enquired for the <hi>Inquiſitor</hi> as <hi>I</hi> was ſhewed of the Lord <hi>I</hi> ſhould do; And when <hi>I</hi> ſpoke to him, <hi>I</hi> told him <hi>I was come from England for to ſee my Brother I. P.</hi> to which he anſwered, <hi>I ſhould ſee him,</hi> and appointed me to come to a certain place cal<g ref="char:EOLhyphen"/>led <hi>Minerva,</hi> and there ſaith he, <hi>I will procure you liber<g ref="char:EOLhyphen"/>ty of the Cardinalls to ſee him;</hi> he had me alſo to the In<g ref="char:EOLhyphen"/>quiſition office, where he aſked many queſtions of me concerning our Religion, to which <hi>I</hi> anſwered in the ſimplicity of my heart in the fear of the Lord; and at the appointed time <hi>I</hi> came to the place aforeſaid, and there <hi>I</hi> was ſhewed what further <hi>I</hi> ſhould do, which was to tender my body for my Brother, and ſo from that time <hi>I</hi> hardly miſſed opportunity to ſpeak to them as often as they met, for their manner was thus to meet twice a week, the one time at <hi>Minerva,</hi> and the other
+<pb n="15" facs="tcp:60054:8" rendition="simple:additions"/>
+time at <hi>Monte-Cavallo</hi> where the Popes own dwelling is, where I alſo did the like, more then once, which ſtirred them up againſt me, in great emnity; And truly <hi>I</hi> was perſwaded both by Jews and others, to ſave our ſelves, their emnity grew ſo much againſt us, at laſt they would not ſuffer us to give in a paper at the door to our dear Brother, after ſome time paſſed; and after that the Lord required me to go to the Jews Sy<g ref="char:EOLhyphen"/>nagogue, where <hi>I</hi> had been ſeveral times before, and declared glad tidings to them from the mouth of the Lord; and after that <hi>I</hi> had been but a little time a<g ref="char:EOLhyphen"/>mongſt them, the word of the Lord came to me ſay<g ref="char:EOLhyphen"/>ing, <hi>thou ſhalt be taken at Minerva, and whereas it is com<g ref="char:EOLhyphen"/>monly reported in this place, that</hi> John Luffe <hi>ſtarved him<g ref="char:EOLhyphen"/>ſelf to death, thou ſhalt faſt for a Teſtimony againſt them,</hi> for it was ſo they had often caſt his death upon me, ſaying he faſted 19 dayes, and the 20th day he died, wch thing grieved me many times; And it came to paſs according to the word of Lord, <hi>I</hi> was taken 19 dayes after at the ſaid place where the Lord told me <hi>I</hi> ſhould, and from thence <hi>I</hi> was carried to the Inquiſition, where <hi>I</hi> was ſhut up cloſe, and after <hi>I</hi> had been there 3 dayes, the Lord ſaid to me <hi>Thou muſt go to the Pazza<g ref="char:EOLhyphen"/>rella</hi> which was the Priſon or Hoſpital of mad men, where our dear Brother was priſoner; and it was alſo ſaid unto me, <hi>thou ſhalt alſo ſpeak to the Pope;</hi> And at the 17 dayes end, <hi>I</hi> was led from the Inquiſition towards the other Priſon, and by the way <hi>I</hi> met the Pope carri<g ref="char:EOLhyphen"/>ed in great pomp, as it was the good will of the Lord that <hi>I</hi> ſhould ſpeak unto him, men could not prevent it, for <hi>I</hi> met him towards the foot of a bridge, where <hi>I</hi> was ſomething nigh him, and when he came againſt me, the people being on their knees on each ſide of him, <hi>I</hi> cried to him with a loud voyce in the <hi>Italian</hi>
+               <pb n="16" facs="tcp:60054:9" rendition="simple:additions"/>
+tongue <hi>To do the thing that was Juſt, and to releaſe th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nocent,</hi> and whileſt <hi>I</hi> was ſpeaking, the man which me had not power to take me away untill <hi>I</hi> had <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and then he had me to priſon where my ende<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Brother was, where <hi>I</hi> faſted about 20 dayes as a wi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> againſt that bloody Generation; For in my faſt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Lord ſhewed me what they had done with <hi>John</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that true and faithful ſervant of his, for he ſhewe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they had deſtroyed him. Now in the time of my <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, it could not be perceived by any outward app<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ance that <hi>I</hi> did faſt, as many of themſelves did cor<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that <hi>I</hi> looked better then when <hi>I</hi> did eat, and tru<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cannot ſay that my fleſh did decay at all, <hi>I</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtrengthened often times by the good word of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord which he ſpake thorow his faithful ſuffer<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lambs to me, in the time that we had liberty to w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> one to the other; my dear Siſter being brought <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Inquiſition, where ſhe was retained from the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I was brought from thence, and from thence <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought to the ſame Priſon where we were; and ſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> after my faſt the Lord by an out-ſtreched arm wrou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our deliverance, being condemned to perpetual <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly-ſlavery, if ever we returned again unto <hi>Rome.</hi>
+            </p>
+            <closer>
+               <signed>CHARLES BAYLY<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>My Soul praiſe thou the Lord in all his marvellous g<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> works, yea magnifie thou the Name of thy God, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> holding the powerful works of his own right hand, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> partaking of his everlaſting compaſſions, love and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meaſurable mercies; Ah bleſſed, bleſſed, bleſſed, prai<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> magnified and honoured be the Name of the Lord the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> high God, even for ever and ever Amen.</p>
+            <closer>
+               <signed>JOHN.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
